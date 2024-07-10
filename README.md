@@ -13,9 +13,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
 ## Installation
 
-    ```sh
     curl -O https://raw.githubusercontent.com/TheCrazyInsanity/freerootcompat/main/root.sh && chmod +x ./root.sh && bash root.sh
-    ```
 
 ## Supported Architectures
 
