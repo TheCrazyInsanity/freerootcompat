@@ -8,7 +8,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
 - Bash shell environment
 - Internet connectivity
-- Wget installed
+- Curl installed
 - Supported CPU architecture: x86_64 (amd64) or aarch64 (arm64)
 
 ## Installation
